@@ -1,4 +1,4 @@
-# Send-a-mail-using-Java-in-Android
+# Mail APP
 ## 1.Initially Add the 3 Jar file in android library
 Link: [JavaMail API](https://code.google.com/archive/p/javamail-android/downloads"MailAPI")
 
